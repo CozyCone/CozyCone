@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @CozyCone
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Language Modeling and Generative AI
+- 🌱 I’m currently diving deeper in the field of Machine Learning
+- 📖 I have worked on projects involving LLMs , Computer Vision , Time Series Forecasting etc.
 - 💞️ I’m looking to collaborate on Projects
 
 
